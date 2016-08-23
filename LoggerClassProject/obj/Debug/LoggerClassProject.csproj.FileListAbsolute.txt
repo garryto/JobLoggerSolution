@@ -1,0 +1,5 @@
+F:\DESARROLLO\Belatrix Test\Logger\LoggerClassSolution\LoggerClassProject\bin\Debug\LoggerClassProject.dll
+F:\DESARROLLO\Belatrix Test\Logger\LoggerClassSolution\LoggerClassProject\bin\Debug\LoggerClassProject.pdb
+F:\DESARROLLO\Belatrix Test\Logger\LoggerClassSolution\LoggerClassProject\obj\Debug\LoggerClassProject.csprojResolveAssemblyReference.cache
+F:\DESARROLLO\Belatrix Test\Logger\LoggerClassSolution\LoggerClassProject\obj\Debug\LoggerClassProject.dll
+F:\DESARROLLO\Belatrix Test\Logger\LoggerClassSolution\LoggerClassProject\obj\Debug\LoggerClassProject.pdb
