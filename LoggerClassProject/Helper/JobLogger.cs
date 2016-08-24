@@ -1,5 +1,6 @@
 ﻿using LoggerClassProject.Enums;
 using LoggerClassProject.Persistance;
+using LoggerClassProject.Service;
 
 namespace LoggerClassProject
 {

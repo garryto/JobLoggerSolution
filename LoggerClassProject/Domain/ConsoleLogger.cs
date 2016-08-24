@@ -10,23 +10,25 @@ namespace LoggerClassProject
         {
             lock (lockObj)
             {
-                switch (log.MessageType)
-                {
-                    case LogType.error:
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        break;
-                    case LogType.warning:
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        break;
-                    case LogType.message:
-                        Console.ForegroundColor = ConsoleColor.White;
-                        break;
-                    default:
-                        return;
-                }
 
+                Console.ForegroundColor = GetForeGroundColor(log.MessageType);
                 Console.WriteLine(string.Format("{0}: {1}", DateTime.Now.ToShortDateString(), log.Message));
             }
         }
+
+        internal ConsoleColor GetForeGroundColor(LogType messageType)
+        {
+            switch (messageType)
+            {
+                case LogType.error:
+                    return ConsoleColor.Red;
+                case LogType.warning:
+                    return ConsoleColor.Yellow;
+                case LogType.message:
+                default:
+                    return ConsoleColor.White;
+            }
+        }
+
     }
 }

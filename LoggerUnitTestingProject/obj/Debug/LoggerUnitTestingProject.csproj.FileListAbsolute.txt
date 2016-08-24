@@ -1,0 +1,15 @@
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\LoggerUnitTestingProject.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\LoggerUnitTestingProject.pdb
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.Core.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\LoggerClassProject.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\Moq.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\LoggerClassProject.pdb
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.pdb
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.xml
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.Core.pdb
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\FluentAssertions.Core.xml
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\bin\Debug\Moq.xml
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\obj\Debug\LoggerUnitTestingProject.csprojResolveAssemblyReference.cache
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\obj\Debug\LoggerUnitTestingProject.dll
+F:\DESARROLLO\Belatrix Test\Logger\JobLoggerSolution\LoggerUnitTestingProject\obj\Debug\LoggerUnitTestingProject.pdb

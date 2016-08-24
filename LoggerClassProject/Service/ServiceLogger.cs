@@ -1,6 +1,7 @@
 ﻿using LoggerClassProject.Core;
+using LoggerClassProject.Persistance;
 
-namespace LoggerClassProject.Persistance
+namespace LoggerClassProject.Service
 {
     public class ServiceLogger : IServiceLogger
     {
