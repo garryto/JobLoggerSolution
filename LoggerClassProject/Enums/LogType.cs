@@ -4,6 +4,7 @@
     {
         message,
         warning,
-        error
+        error,
+        horror
     }
 }
